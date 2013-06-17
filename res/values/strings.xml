@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DOGGITY</string>
+    <string name="action_settings">Settings</string>
+    <string name="loadingmessage">Please wait&#8230;</string>
+    <string name="loadingtitle">Downloading Venues</string>
+    <string name="loadingfbtitle">Registering</string>
+    <string name="facebook_page">Facebook</string>
+    <string name="loginbtn">Login with Facebook</string>
+    <string name="back">Go Back</string>
+    <string name="welcome">Welcome</string>
+    <string name="requestfailed">request failed</string>
+	
+    <string name="app_id">381690735268800</string>
+    <string name="app_secret">1de15007b72e8ba752a27af8b6de69fc</string>
+    <string name="google_api_key">AIzaSyCT6nFr4n0t5OHCEuJVh6VI_zNAsWfvQb8</string>
+    <string name="gettingvenues">Getting Venues around you&#8230;</string>
+    <string name="loggedinas">Logged in as</string>
+    <string name="split">Split</string>
+    <string name="list">List</string>
+    <string name="map">Map</string>
+</resources>
